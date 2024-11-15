@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="scalafx.scalafx_2.12" type="repository">
+    <properties maven-id="org.scalafx:scalafx_2.12:20.0.0-R31" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scalafx_2.12-20.0.0-R31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.12.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-20-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-20-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-20-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-20-win.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/scalafx_2.12-20.0.0-R31-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.12.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
